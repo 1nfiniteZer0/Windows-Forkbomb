@@ -1,4 +1,13 @@
 @echo off
+
+REM By: Aidan Biggs
+REM AKA AT Vloggers
+REM
+REM Please do not claim this as your own.
+REM
+REM If you remove this it means you break the Code of Use found here: 
+REM https://at-vloggers.weebly.com/code-of-use.html
+
 title RIP PC
 cls
 echo STARTING IN 3..
